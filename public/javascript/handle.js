@@ -27,8 +27,9 @@ function clickBtnBackground(){
 
 function changeTxtUrl(){
     var txtUrl = document.getElementById("txtUrl");
-    let index = txtUrl.value.indexOf('.jpg');
-    if(index>0){
+    let index1 = txtUrl.value.indexOf('.jpg');
+    let index2 = txtUrl.value.indexOf('.png')
+    if(index>0 || index2>0){
         document.body.style.backgroundImage = "url('"+txtUrl.value+"')"
         localStorage.setItem('img',txtUrl.value);
         txtUrl.style.display = 'none'
