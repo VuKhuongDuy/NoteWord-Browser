@@ -9,9 +9,13 @@
     <script src="./javascript/handle.js"></script>
 </head>
 <body onload="loadText()">
+    <button id="chooseIMG" onClick="clickBtnBackground()" class="btn">Background</button>
+    <input type="text" id="txtUrl" onChange="changeTxtUrl()" name='urlNewImage' placeholder="url Image"/>
+    <!-- <input type="file" id="fileImg"/>
+    <button id="accept Image" onClick="clickSaveImage()">Save Image</button> -->
     <div id="paper">
         <textarea id="note" oninput="textChange()"></textarea>
     </div>
-    <button type="button" class="btn-success" id="btn-save" onClick="clickSave()">Save</button>
+    <button type="button" class="btn btn-success" id="btn-save" onClick="clickSave()">Save</button>
 </body>
 </html>

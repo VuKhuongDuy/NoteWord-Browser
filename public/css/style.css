@@ -1,7 +1,32 @@
 body{
     margin: 0;
-    background-image: url('../img/1.jpg');
+    background-repeat: round;
+    background-attachment: fixed;
     position: relative;
+}
+
+.btn:hover{
+    background-color: lightgreen;
+}
+
+#chooseIMG{
+    height: 35px;
+    width: 100px;
+    font-weight: bold;
+    box-shadow: black 0px 3px 5px;
+    position: absolute;
+    left: 35px;
+    margin-top: 30px;
+}
+
+#txtUrl{
+    height: 30px;
+    width: 200px;
+    box-shadow: black 0px 3px 5px;
+    left: 145px;
+    margin-top: 30px;
+    position: absolute;
+    display: none;
 }
 
 #paper{
@@ -22,11 +47,12 @@ body{
 }
 
 .btn-success{
-    height: 50px;
-    width: 70px;
+    height: 70px;
+    width: 90px;
     border-radius: 13%;
+    font-weight: bold;
     box-shadow: black 0px 3px 5px;
-    right: 443px;
-    margin-top: 152px;
     position: absolute;
+    right: 435px;
+    margin-top: 152px;
 }
