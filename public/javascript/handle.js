@@ -4,9 +4,9 @@ function clickSave(){
 }
 
 function loadText(){
+    var rad = Math.random();
+    var index = Number.parseInt(rad*3)+1
+    document.body.style.backgroundImage = "url('../img/"+index+".jpg')";
     let txt = localStorage.getItem('note') || '';
-
     document.getElementById('note').value = txt;
-
-    console.log('txt: '+txt)
 }
