@@ -1,0 +1,7 @@
+﻿Đây là 1 website giúp bạn note lại những việc cần làm và nó sẽ nhắc bạn
+khi bạn khởi động trình duyệt của mình.
+
+Cài đặt: 
+Bạn vào setting của trình duyệt, cài đặt website khởi động cùng trình duyệt: 
+on startup --> open a specific ... --> add a new page -->
+ ghi đường dẫn https://note-work-browser.herokuapp.com vào path
