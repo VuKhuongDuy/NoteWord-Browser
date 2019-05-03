@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: aquamarine;
+    position: relative;
+}
+
+#paper{
+    width: 400px;
+    height: 400px;
+    left: 600px;
+    margin-top: 150px;
+    box-shadow: black 0px 3px 5px;
+    position: absolute;
+}
+
+#note{
+    width: 89%;
+    height: 89%;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.btn-success{
+    height: 50px;
+    width: 70px;
+    border-radius: 13%;
+    box-shadow: black 0px 3px 5px;
+    right: 80px;
+    margin-top: 30px;
+    position: absolute;
+}
