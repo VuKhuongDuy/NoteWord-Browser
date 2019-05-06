@@ -1,0 +1,24 @@
+1: Hàng hóa và 2 thu?c tính c?a hàng hóa
+-Khái ni?m: 
+	+> Hàng hóa là s?n ph?m c?a lao d?ng nh?m ph?c v? nu c?u nào dó, di vào quá trình tiêu dùng thông qua trao d?i và mua bán
+- khi n/c psxuat cua tbcn, mac dã b?t d?u v?i hàng háo vì
+	.> hàng hóa là hình thái bi?u hi?n ph? bi?n nh?t c?a c?a c?i trong xh tb
+	.>hàng hóa là hình thái nguyên t? c?a c?a c?i, là m?t t? bào c?a n?n kinh t? ch?a d?ng m?i m?m m?ng mâu thu?n c?a pt sx tbcn
+	.>pt hàng hóa nghia là pt giá tr? c?a t?t c? các ph?m trù chính tr? kinh t? h?c c?a pt sx tbcn, n?u ko s? ko th? hi?u dc giá tr? th?ng du- là ph?m trù co b?n c?a cntb 
+1.2: 
+	có 2 thu?c tính là gtsd và gt:
+gtsd: là công d?ng c?a hàng hóa, có th? htoar mãn nhu c?u nào dó c?a con ngu?i
+.> gtsd là thu?c tính c?a hàng hóa, nó thu?c ph?m trù vinh vi?n
+.> hàng hóa ch? có gtsd khi dc s? d?ng, nó là n?i dung v?t ch?t c?a c?a c?i
+.> gtsd ngày càng tang vì khoa h?c ngày càng phát tri?n, tìm ra nhi?u công d?ng c?a hàng hóa.
+.> không p vaajtt gi cung co th? tr? thành hàng hóa
+.> mu?n tr? thành hàng hóa thì gtsd c?a nó ph?i là v?t du?c s?n xu?t d? trao d?i, có giá tr? trao d?i
+
+-gt: 
+	+> gttd ph?n ánh quan h? t? l? nhat dinh ve mat so luong giua cac hang hoa co gtsd khac nhau
+	+>gt hang hoa: la hao phi lao dong xh cua nguoi sx duoc ket tinh trong hang hoa
+	+>Hao phi lao dong gom: song va qua khu
+	+ chia lam: hao phi la dong ca biet va hoa phi lao dong xh
+	+> gttd chi la hinh thuc bieu hien cuar gt, gt la noi dung, la co so cua gttd
+	+>Hao phi lao dong ket tinh torng sp k phai luc nao cung la gt, chi khi sp lam ra de tao doi moi mang hinh thai gt
+ => gtsd la phan tru vinh vien, gt la pham tru mang tinh lich su, thuoc tin tu nhien cua hh la 
